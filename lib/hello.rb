@@ -12,4 +12,7 @@ def hello_t(array)
   end
  
   array
+else
+  puts "Hey! No bolck was given!"
+end
 end
